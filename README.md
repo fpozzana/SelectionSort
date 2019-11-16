@@ -9,5 +9,5 @@ The algorithm firstly performs the selection sort algorithm on the non ordered P
 
 ## Tools
 
-For this porject the following tools were used
+For this project the following tools were used
 - Keil µVision 4 - ARM
