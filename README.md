@@ -1,7 +1,7 @@
 # SelectionSort
 ![](https://img.shields.io/badge/Development-Stopped-red)
 
-A selection sort algorithm developed in ARM assembly. The alorithm has as input two list, an Item_list and a Price_list. The Item_list contains the code of the product and the desired quantity, while the Price_list contains the code of the product and the price following the same notation, namely code (4 bytes) and quantity/price (4bytes)
+Selection sort algorithm developed in ARM assembly. The alorithm has as input two list, an Item_list and a Price_list. The Item_list contains the code of the product and the desired quantity, while the Price_list contains the code of the product and the price following the same notation, namely code (4 bytes) and quantity/price (4bytes)
 
 DCD 0xXX, XX
 
